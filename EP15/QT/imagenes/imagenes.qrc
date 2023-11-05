@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>x.svg</file>
+    <file>minus.svg</file>
+    <file>chevron-up.svg</file>
+    <file>chevron-down.svg</file>
+    <file>caries_dental.jpg</file>
+  </qresource>
+</RCC>
